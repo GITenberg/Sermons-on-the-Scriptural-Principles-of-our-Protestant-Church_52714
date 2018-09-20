@@ -1,0 +1,27 @@
+_repo: Sermons-on-the-Scriptural-Principles-of-our-Protestant-Church_52714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2016-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Doctrines -- Protestant authors'
+- !lcsh 'Church of England -- Doctrines'
+- GITenberg
+title: Sermons on the Scriptural Principles of our Protestant Church
+url: http://www.gutenberg.org/ebooks/52714
